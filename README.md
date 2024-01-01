@@ -1,2 +1,2 @@
 # Dr-Semmelweis-discovery-of-Handwash-Analysis
-jj
+In this notebook, I have reanalyzed the data that made Semmelweis discover the importance of handwashing.
